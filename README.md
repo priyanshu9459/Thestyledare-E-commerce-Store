@@ -1,6 +1,7 @@
 # Thestyledare---Shopping-Website
 
 Author: Priyanshu Kumar
+
 Welcome to Thestyledare - your ultimate destination for trendy fashion and stylish accessories!
 
 Table of Contents
