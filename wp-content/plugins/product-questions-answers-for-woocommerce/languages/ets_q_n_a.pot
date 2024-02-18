@@ -1,0 +1,163 @@
+# Copyright (C) 2023 ExpressTech Software Solutions Pvt. Ltd.
+# This file is distributed under the same license as the Product Questions & Answers for WooCommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Product Questions & Answers for WooCommerce 1.2.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/product-questions-answers-for-woocommerce\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-02-17T19:55:06+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: ets_q_n_a\n"
+
+#. Plugin Name of the plugin
+msgid "Product Questions & Answers for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.expresstechsoftwares.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "<code><strong>ETS WooCommerce Questions And Answers</strong></code> offers a rapid way to manage dynamic discussions about your Woo products. <a href=\"https://www.expresstechsoftwares.com\">Get more plugins and custom development for WordPress on <strong>ETS</strong></a>."
+msgstr ""
+
+#. Author of the plugin
+msgid "ExpressTech Software Solutions Pvt. Ltd."
+msgstr ""
+
+#: includes/ets_admin_qa_function.php:49
+msgid "Products Q & A"
+msgstr ""
+
+#: includes/ets_admin_qa_function.php:58
+#: includes/ets_admin_qa_function.php:621
+#: includes/ets_user_qa_function.php:56
+msgid "Access not allowed"
+msgstr ""
+
+#: includes/ets_admin_qa_function.php:72
+#: includes/ets_admin_qa_function.php:108
+#: includes/ets_admin_qa_function.php:116
+#: includes/ets_admin_qa_function.php:135
+#: includes/ets_user_qa_function.php:220
+msgid "Load More"
+msgstr ""
+
+#: includes/ets_admin_qa_function.php:130
+msgid "Product Q & A Setting"
+msgstr ""
+
+#: includes/ets_admin_qa_function.php:142
+msgid "Page Size"
+msgstr ""
+
+#: includes/ets_admin_qa_function.php:146
+msgid "Paging Button Name"
+msgstr ""
+
+#: includes/ets_admin_qa_function.php:150
+msgid "Layout"
+msgstr ""
+
+#: includes/ets_admin_qa_function.php:152
+msgid "Normal"
+msgstr ""
+
+#: includes/ets_admin_qa_function.php:153
+msgid "Accordion"
+msgstr ""
+
+#: includes/ets_admin_qa_function.php:158
+msgid "Auto Approve"
+msgstr ""
+
+#: includes/ets_admin_qa_function.php:162
+#: includes/ets_user_qa_function.php:177
+msgid "Submit"
+msgstr ""
+
+#: includes/ets_admin_qa_function.php:176
+#: includes/ets_user_qa_function.php:41
+msgid "Q & A"
+msgstr ""
+
+#: includes/ets_admin_qa_function.php:267
+#: includes/ets_admin_qa_function.php:328
+#: includes/ets_admin_qa_function.php:637
+#: includes/ets_user_qa_function.php:244
+#: includes/ets_user_qa_function.php:288
+#: includes/ets_user_qa_function.php:335
+#: includes/ets_user_qa_function.php:420
+#: includes/ets_user_qa_function.php:460
+msgid "Question"
+msgstr ""
+
+#: includes/ets_admin_qa_function.php:276
+#: includes/ets_admin_qa_function.php:337
+#: includes/ets_admin_qa_function.php:646
+#: includes/ets_user_qa_function.php:251
+#: includes/ets_user_qa_function.php:258
+#: includes/ets_user_qa_function.php:297
+#: includes/ets_user_qa_function.php:345
+#: includes/ets_user_qa_function.php:351
+#: includes/ets_user_qa_function.php:427
+#: includes/ets_user_qa_function.php:470
+msgid "Answer"
+msgstr ""
+
+#: includes/ets_admin_qa_function.php:288
+#: includes/ets_admin_qa_function.php:655
+msgid "Approve"
+msgstr ""
+
+#: includes/ets_admin_qa_function.php:354
+msgid "Add New"
+msgstr ""
+
+#: includes/ets_admin_qa_function.php:498
+msgid "Answer to Your Question was Updated"
+msgstr ""
+
+#: includes/ets_admin_qa_function.php:508
+msgid "Your Question was Answered"
+msgstr ""
+
+#: includes/ets_user_qa_function.php:65
+msgid "You are not logged in"
+msgstr ""
+
+#: includes/ets_user_qa_function.php:113
+msgid "Question submitted successfully"
+msgstr ""
+
+#: includes/ets_user_qa_function.php:123
+msgid "Please enter your question"
+msgstr ""
+
+#: includes/ets_user_qa_function.php:170
+msgid "Enter your question here"
+msgstr ""
+
+#: includes/ets_user_qa_function.php:193
+msgid "Please <a href=\"%s\">login</a> to post questions"
+msgstr ""
+
+#: includes/ets_user_qa_function.php:259
+#: includes/ets_user_qa_function.php:305
+#: includes/ets_user_qa_function.php:352
+#: includes/ets_user_qa_function.php:435
+#: includes/ets_user_qa_function.php:477
+msgid "Answer awaiting"
+msgstr ""
+
+#: includes/ets_user_qa_function.php:304
+#: includes/ets_user_qa_function.php:434
+#: includes/ets_user_qa_function.php:476
+msgid "Answer:"
+msgstr ""

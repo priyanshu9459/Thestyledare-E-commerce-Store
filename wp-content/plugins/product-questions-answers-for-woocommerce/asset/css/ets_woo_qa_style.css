@@ -1,0 +1,272 @@
+.ets-qa-textarea{
+	height:80px;
+	width:90%;
+	margin: 15px auto;
+	padding: 15px 10px;
+	display: inline-block;
+	border: 0px;
+	border-bottom: 1px solid #000;
+}
+#ets-submit{
+    margin-bottom: 15px; 
+}
+.ets-accordion {
+    background-color: #f1f1f1   ;
+    color: #444;
+    cursor: pointer;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+    transition: 0.4s;
+    display: inline-flex;
+    align-items: center; 
+    padding: 5px 15px;
+    border-bottom: 1px solid #444;
+    margin-bottom: 5px;
+}
+
+.active .ets-accordion:hover {
+    background-color: #ccc; 
+}
+.ets-cont-right{
+    text-align: right;
+    margin-right: 5px;
+}
+.ets-accordion h6{
+    text-align: right;
+}
+
+.ets-panel {
+    padding: 15px 18px;
+    display: none;
+    background-color: white;
+    overflow: hidden;
+    line-height: 40px;
+}
+.ets-accordion .ets-que-content{
+	padding-right: 10px;
+}
+.ets-accordion h6{
+	float: right;
+	display: inline-block;
+}
+.ets-panel .ets-que-content{
+	padding-right: 10px;
+}
+.ets-question-title{
+    width: 10%;
+}
+.ets-question-description{
+        width: 85%;
+}
+.ets-email-message{
+    width:80px;
+    background: #FFFACD;
+}
+.ets-qa-item{
+    position: relative; 
+
+}
+.image-preview{
+    position: absolute; 
+    top: 80%;
+    right: 12px;
+
+}
+#ets-delete-qa{
+    min-width: 20px;
+    cursor: pointer;
+}
+.ets-qa-drop{
+    position: absolute; 
+    top: -72px;
+    right: 0px;
+} 
+.ets-scroll-move{
+    cursor: all-scroll;
+    height: 20px;
+}
+.border{
+    border-bottom: 1px solid #cbcbcb;
+}
+.ets-qa-item p input[type="text"]{
+    background: #ededed;
+    min-width: 77%;
+    height: 35px;
+    font-family: initial;
+}
+.ets-qa-item p input[type="checkbox"]{
+    background: #ededed;
+    min-width:4%;
+    height: 18px;
+}
+.ets-qa-item p textarea{
+     
+    min-width: 77%;
+    height: 76px;
+    font-family: initial;
+    border-radius: 0px;
+    border:1px solid #ccc;
+}
+.ets-qa-item p label{
+    font-size: 13px; 
+    color: #120e51;
+    font-style: normal;
+}
+.ets-add-new-qa { 
+    margin-bottom: 21px;
+    display: inline-block;
+    padding-left: 10px;
+}
+.ets-new-qa-field p input{
+    background: #ededed;
+    min-width: 77%;
+    height: 35px;
+    font-family: initial;
+}
+.ets-new-qa-field p textarea{
+     
+    min-width: 77%;
+    height: 76px;
+    font-family: initial;
+    border-radius: 0px;
+    border:1px solid #ccc;
+}
+.ets-new-qa-field p label{
+    font-size: large;
+    font-family: initial;
+    color: #120e51;
+    font-style: italic;
+}
+.ets_question_data_field label{
+    font-size: large;
+    font-family: initial;
+    color: #120e51;
+    font-style: italic;
+}
+.ets_question_data_field input{
+    background: #ededed;
+    min-width: 77%;
+    height: 35px;
+    font-family: initial;
+}
+.ets_answer_data_field textarea {
+    min-width: 77%;
+    height: 76px;
+    font-family: initial;
+    border-radius: 0px;
+    border:1px solid #ccc;
+}
+.ets_answer_data_field label{
+    font-size: large;
+    font-family: initial;
+    color: #120e51;
+    font-style: italic;
+}
+.my-table .ets-question-top td{
+
+    background: #f1f1f1;
+}
+.my-table table tr td{
+    padding: 10px 5px;
+    word-break: normal;
+    border-top: 1px solid #ccc;
+    border: 0px;
+    vertical-align: top;
+}
+.my-table .ets-question-description{
+    width:70%;
+}
+.my-table table tr td p{
+    font-size:14px;
+    /*font-family: initial;*/
+    margin: 0
+}   
+.my-table table tr td.ets-question-title p{ 
+    font-weight: bold;
+}
+.my-table table tr td h6{
+    margin: 0px;
+    font-size: 12px;
+}
+.ets-display-message{
+    color: #148c15;
+    font-size: 13px;
+    margin-top: -15px;
+    margin-bottom: 40px;
+}
+.ets-dis-message-error{
+    color: red;
+    font-size: 13px; 
+    margin-top: -40px;
+    margin-bottom: 10px;
+}
+.user-name{
+    color:#cecece;
+}
+.ans-content{
+    font-size: 16px;
+}
+.ets-qa-listing{
+    margin: 0px !important;
+}
+.ans-content{
+    display: inline-block;
+    width:15%;
+    float:left;
+    font-size: 14px;
+    line-height: normal;
+    font-size: 13px;
+}
+.ets-no-answer h6 p i{
+    font-weight: 500;
+}
+.ets-panel .ans-content-des{
+    font-size: 14px;
+    color:#444;
+}
+.ans-content-des{
+    width:85%;
+    float:left;
+    display: inline-block;
+    line-height: normal;
+}
+.ets-accordion .que-content{
+    width:15%;
+    display: inline-block;
+    float:left;
+    line-height: normal;
+    font-size: 13px;
+}
+.ets-accordion .que-content-des{
+    width: 70%;
+    float:left;
+    line-height: normal;
+    display: inline-block;
+}
+.ets-accordion h6{
+    display: inline-block;
+    width: 15%;
+    float: right;
+    margin:0px;
+    color: #8f8f8f;
+    font-size: 12px;
+    padding-top: 0px;
+}
+#ets-question-detail-ajax{
+    margin: 0px !important;
+}
+#ques-text-ar{
+    font-size: 20px;
+}
+#ets-load-more{
+    margin-top: 10px;
+}
+.ets-load-more{
+    margin-bottom: 11px;
+    margin-top: 20px;
+    display: inline-block;
+    color: #d45f56;
+}
